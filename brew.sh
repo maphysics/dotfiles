@@ -96,5 +96,10 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# tools
+brew install telnet
+brew install gnupg2 git
+brew install gopass
+
 # Remove outdated versions from the cellar.
 brew cleanup
